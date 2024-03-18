@@ -1,0 +1,32 @@
+Report created: 
+	6/7/2023	1:49:57 PM
+
+Project name: Background-01.aep
+
+Source files collected to: 
+	C:\Users\maddi\Documents\Adobe\After Effects 2023\Projects\Background-01 folder\Background-01 folder
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Slide-01
+	
+Number of collected files:  1
+
+Size of collected files:  34 KB
+
+Collected source files: 
+	C:\Users\maddi\Creative Cloud Files\Logo\Full Logo\0.5x\Asset 6@0.5x.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Change Color
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Garamond”, Font style: “Bold”
+
