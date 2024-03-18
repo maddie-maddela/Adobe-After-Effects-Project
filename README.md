@@ -1,6 +1,6 @@
 # Adobe-After-Effects-Project
 
-Created a video to expore some features of Adobe After Effects.
+Created a video to explore some features of Adobe After Effects.
 
 The idea behind this mathematical concept is that multiplication is nothing but repeated addition that is demonstrated here using the chinese sticks method. The video below explains the process in greater detail.
 
